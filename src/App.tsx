@@ -1,24 +1,17 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Footer from "./components/Footer";
+import Game from "./components/Game";
+import Rules from "./components/Rules";
+import ScoreBar from "./components/ScoreBar";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="h-full bg-gradient-to-b from-background-from to-background-to">
+      <div className="w-full h-full px-6 pt-8 flex flex-col items-center pb-10 md:pb-8 select-none overflow-hidden relative">
+        <ScoreBar />
+        <Game />
+        <Footer />
+        <Rules />
+      </div>
     </div>
   );
 }
