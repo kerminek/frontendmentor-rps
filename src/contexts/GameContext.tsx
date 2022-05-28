@@ -18,7 +18,7 @@ const compare = (selected: number, botResponse: number): any => {
   switch (selected) {
     case botResponse:
       res.number = 0;
-      res.string = "DRAW";
+      res.string = "TIE";
       break;
     case 1:
       if (botResponse === 2) {
