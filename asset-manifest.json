@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/frontendmentor-rps/static/css/main.d82c983c.css",
+    "main.js": "/frontendmentor-rps/static/js/main.600088d0.js",
+    "static/js/787.b701888c.chunk.js": "/frontendmentor-rps/static/js/787.b701888c.chunk.js",
+    "static/media/logo.svg": "/frontendmentor-rps/static/media/logo.a4a2b39fefcdb6a1a8088c4dba8f3d93.svg",
+    "static/media/image-rules.svg": "/frontendmentor-rps/static/media/image-rules.258b753fb6284dc8ae00c5b2fa7938c0.svg",
+    "static/media/icon-paper.svg": "/frontendmentor-rps/static/media/icon-paper.8b57a6b108c1b8ae82931a39b10f96a2.svg",
+    "index.html": "/frontendmentor-rps/index.html",
+    "static/media/icon-scissors.svg": "/frontendmentor-rps/static/media/icon-scissors.3b1a5d7eb0b2f1fd3e955865ec04d9ed.svg",
+    "static/media/icon-rock.svg": "/frontendmentor-rps/static/media/icon-rock.476e90a9646a87bb3645d2f09f4f7fba.svg",
+    "static/media/icon-close.svg": "/frontendmentor-rps/static/media/icon-close.bde602ecd1a4e55e0c27137ed651e027.svg",
+    "static/media/bg-triangle.svg": "/frontendmentor-rps/static/media/bg-triangle.c0c30b562fdb087666594c1bc0d512f6.svg",
+    "main.d82c983c.css.map": "/frontendmentor-rps/static/css/main.d82c983c.css.map",
+    "main.600088d0.js.map": "/frontendmentor-rps/static/js/main.600088d0.js.map",
+    "787.b701888c.chunk.js.map": "/frontendmentor-rps/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d82c983c.css",
+    "static/js/main.600088d0.js"
+  ]
+}
